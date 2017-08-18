@@ -1,0 +1,45 @@
+.glyphicon {
+margin-right: 4px !important; /*override*/
+}
+.pagination .glyphicon {
+margin-right: 0px !important; /*override*/
+}
+.pagination a {
+color: #555;
+}
+.panel ul {
+padding: 0px;
+margin: 0px;
+list-style: none;
+}
+.news-item {
+padding: 4px 4px;
+margin: 0px;
+border-bottom: 1px dotted #555;
+}
+
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+.navbar.center .navbar-inner .nav {
+    float: none;
+    display:inline-block;
+}
+
+
+
+#imaginary_container{
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}

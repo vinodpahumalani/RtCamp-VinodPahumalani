@@ -2,8 +2,8 @@
  //init frequently used urls
 return [
     //
-    'consumer_key'      => '5V5aePEGcAdDrSfiCvPnr0RKC',
-    'consumer_secret'   => '72yT95CUYU6W4s8rKfsvZcP1VdeaaeZZ4OmDGBJqH6yTEDkO4v',
+    'consumer_key'      => '',
+    'consumer_secret'   => '',
  
     //
     'url_login'         => 'https://vinodpahumalani.000webhostapp.com/index.php',

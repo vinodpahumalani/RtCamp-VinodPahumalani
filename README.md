@@ -12,13 +12,7 @@ By clicking on download button you can download your displaying tweets.Live sear
 
 Visit my website will redirect you to TwitterOauth where you can Log In to Twitter and after that it will redirect you to my creation.
 
-### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
  
 
 ## Authors

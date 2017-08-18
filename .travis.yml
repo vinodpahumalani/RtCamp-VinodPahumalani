@@ -1,9 +1,15 @@
 language: php
+dist: trusty
 php:
-  - '5.4'
-  - '5.5'
-  - '5.6'
-  - '7.0'
-  - '7.1'
-  - hhvm # on Trusty only
-  - nightly
+- 5.5
+- 5.4
+- hhvm
+script: phpunit index.php
+
+script: phpunit config.php
+
+script: phpunit callback.php
+
+script: phpunit home.php
+
+script: phpunit createcsv.php

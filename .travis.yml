@@ -2,15 +2,6 @@ language: php
 
 php:
 - 5.5
-- 5.4
-script: phpunit index.php
 
-script: phpunit config.php
-
-script: phpunit callback.php
-
-script: phpunit home.php
-
-script: phpunit csvfile.php
-
-script: phpunit follower_timeline.php
+script: 
+  - vendor/dim/phpunit

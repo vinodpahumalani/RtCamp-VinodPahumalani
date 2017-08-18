@@ -3,4 +3,5 @@ language: php
 php:
 - 5.5
 
-
+  script:
+    index.php

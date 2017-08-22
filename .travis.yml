@@ -7,4 +7,4 @@ php:
 
 script:
   - phpunit
-  - php config.php
+  - php config.php index.php

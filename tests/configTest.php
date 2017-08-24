@@ -10,7 +10,7 @@ class configTest extends PHPUnit_Framework_TestCase
    
     public function testTokens()
     {
-       $this->config=new \vinodpahumalani\RtCamp\config();
+       $this->config=new config();
 	 $this->token=$this->config->token();   
 	    
         $this->assertEquals('', $this->token['consumer_key']);

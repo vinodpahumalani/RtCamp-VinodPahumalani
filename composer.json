@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-4": {
+			"vinodpahumalani\\RtCamp-VinodPahumalani\\": "src_code/",
+			"vinodpahumalani\\RtCamp-VinodPahumalani\\tests": "tests/"
+			
+			
+		}
+	}
+}

@@ -1,6 +1,6 @@
 <?php
 
-private $token= require_once '/../src_code/config.php';
+$token= require_once '/../src_code/config.php';
 
 class configTest extends PHPUnit_Framework_TestCase
 {

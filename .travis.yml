@@ -5,6 +5,4 @@ php:
 - 5.6
 - 7.0
 
-script:
-  - phpunit
-  - php config.php index.php
+script: phpunit --configuration phpunit.xml --coverage-text

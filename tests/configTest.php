@@ -15,6 +15,6 @@ class configTest extends PHPUnit_Framework_TestCase
         $this->assertEquals('', $token['consumer_key']);
 		$this->assertEquals('', $token['consumer_secret']);
 		$this->assertEquals('https://vinodpahumalani.000webhostapp.com/index.php', $token['url_login']);
-		$this->assertEquals('https://vinodpahumalani.000webhostapp.com/home.php', $token['url_home']);));
+		$this->assertEquals('https://vinodpahumalani.000webhostapp.com/home.php', $token['url_home']);
     }
 }

@@ -1,4 +1,5 @@
-# RtCamp-VinodPahumalani https://travis-ci.org/vinodpahumalani/RtCamp-VinodPahumalani.svg?branch=master
+# RtCamp-VinodPahumalani 
+[![Build Status](https://travis-ci.org/vinodpahumalani/RtCamp-VinodPahumalani.svg?branch=master)](https://travis-ci.org/vinodpahumalani/RtCamp-VinodPahumalani)
 This is my Twitter Assignment for RtCamp !  
 
 # Twiitter Assignment

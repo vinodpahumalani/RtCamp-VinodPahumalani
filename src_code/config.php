@@ -1,6 +1,6 @@
 <?php
  //init frequently used urls
- namespace vinodpahumalani\RtCamp;
+
  class config
  {
  public function token()

@@ -1,11 +1,10 @@
 <?php
 
-$token=require_once(__DIR__.'/../src_code/config.php');
 
 class configTest extends PHPUnit_Framework_TestCase
 {
    
-	
+	$token=require_once(__DIR__.'/../src_code/config.php');
     
    
     public function testTokens()

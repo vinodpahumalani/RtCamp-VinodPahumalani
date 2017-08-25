@@ -4,7 +4,8 @@ require_once 'twitteroauth/autoload.php';
 use Abraham\TwitterOAuth\TwitterOAuth;
 session_start();
  
-$config = require_once 'config.php';
+$conf = new config();
+$config=$conf->token();
 
 
 $oauth_verifier = filter_input(INPUT_GET, 'oauth_verifier');

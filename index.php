@@ -5,7 +5,8 @@ use Abraham\TwitterOAuth\TwitterOAuth;
  
 	session_start();
  
-	$config = require_once 'config.php';
+	$conf = new config();
+	$config= $conf->token();	
 
 			// create TwitterOAuth object
 			$twitteroauth = new TwitterOAuth($config['consumer_key'], $config['consumer_secret']);
